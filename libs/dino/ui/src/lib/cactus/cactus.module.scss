@@ -1,0 +1,17 @@
+.cactus {
+  width: 20px;
+  position: relative;
+  left: 530px;
+  top: 150px;
+  animation: block 1s infinite linear;
+}
+
+@keyframes block {
+  0% {
+    left: 530px;
+}
+
+  100% {
+    left: -70px;
+}
+}
