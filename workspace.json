@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "dino": "apps/dino",
+    "dino-e2e": "apps/dino-e2e"
+  }
+}
